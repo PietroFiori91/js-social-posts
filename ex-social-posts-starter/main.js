@@ -104,21 +104,21 @@ for (let i = 0; i < posts.length; i++) {
             </div>
         </div> 
     </div>`;
-    
-  // CLICK AND LIKE
+}
 
-  const likeButton = postMyContainer.querySelector(".js-like-button");
-  const likesCounter = postMyContainer.querySelector(`#like-counter-${id}`);
+// CLICK AND LIKE
 
-  likeButton.addEventListener("click", () => {
-    const isLiked = likedPosts.
+//   const likeButton = postMyContainer.querySelector(".js-like-button");
+//   const likesCounter = postMyContainer.querySelector(`#like-counter-${id}`);
 
-  //NON VIENE
+//   likeButton.addEventListener("click", () => {
+//     const isLiked = likedPosts.
 
-    if (isLiked) {
-      
-    } else {
-      
-      
-    }
-  });
+//   //NON VIENE
+
+//     if (isLiked) {
+
+//     } else {
+
+//     }
+//   });
